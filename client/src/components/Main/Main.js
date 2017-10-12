@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import Search from "./../Search";
 import Saved from "./../Saved";
-import API from "../../utils/API";
-import { Link } from "react-router-dom";
+// import API from "../../utils/API";
+// import { Link } from "react-router-dom";
 
 //WHERE DOES HTE STATE AND THE API STUFF GO
 
