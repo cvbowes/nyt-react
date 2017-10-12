@@ -1,7 +1,8 @@
 import React from "react";
 import Query from "./../Query";
 import Results from "./../Results";
-
+//this component needs to store the search info (as state) and pass it into the ??? query ??? component for search
+//results component needs to get results from nyt query to display
 const Search = () => (
 	<div>
 		<div className="row">
